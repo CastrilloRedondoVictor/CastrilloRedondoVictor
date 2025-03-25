@@ -22,6 +22,7 @@ Me apasiona el desarrollo web y la computación en la nube.
 
 ## 🛠️ Tecnologías & Herramientas  
 
+### 📌 Lenguajes y Frameworks  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>&nbsp;
@@ -30,6 +31,28 @@ Me apasiona el desarrollo web y la computación en la nube.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET Core" width="40" height="40"/>&nbsp;
+</p>
+
+### ☁️ Cloud y DevOps  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="40" height="40"/>&nbsp;
+</p>
+
+### 🗄️ Bases de Datos  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
+</p>
+
+### 🔧 Herramientas y Control de Versiones  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" width="40" height="40"/>&nbsp;
 </p>
 
 ---
