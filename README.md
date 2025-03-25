@@ -61,8 +61,7 @@ Me apasiona el desarrollo web y la computación en la nube.
 ## 📊 GitHub Stats  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CastrilloRedondoVictor&show_icons=true&hide=contribs,issues&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CastrilloRedondoVictor&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CastrilloRedondoVictor&show_icons=true&hide=contribs,issues&theme=radical&rank_icon=github" alt="GitHub Stats"/>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CastrilloRedondoVictor&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
