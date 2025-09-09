@@ -2,7 +2,7 @@
 
 ### 🚀 Sobre mí  
 
-Soy **Víctor Castrillo**, estudiante de un **Máster en Desarrollo Fullstack y Multicloud (Azure & AWS)**.  
+Soy **Víctor Castrillo**, estudiante de un **Fullstack Developer | Cloud & AI**.  
 Me apasiona el desarrollo web y la computación en la nube.  
 
 🔹 **Frontend**: Angular, React, Vue  
@@ -14,7 +14,7 @@ Me apasiona el desarrollo web y la computación en la nube.
 ✅ **AZ-204** (Developing Solutions for Microsoft Azure)  
 ✅ **DVA-C02** (AWS Certified Developer – Associate)  
 
-💼 Actualmente estoy estudiando en **Tajamar**.  
+💼 Actualmente estoy trabajando en **ALIANDO**.  
 
 🌍 Nacido en **Madrid, España** 🇪🇸  
 
