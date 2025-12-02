@@ -2,7 +2,7 @@
 
 ### 🚀 Sobre mí  
 
-Soy **Víctor Castrillo**, estudiante de un **Fullstack Developer | Cloud & AI**.  
+Soy **Víctor Castrillo**, **Fullstack Developer | Cloud & AI**.  
 Me apasiona el desarrollo web y la computación en la nube.  
 
 🔹 **Frontend**: Angular, React, Vue  
